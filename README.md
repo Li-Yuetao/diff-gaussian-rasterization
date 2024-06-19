@@ -5,8 +5,8 @@ This version has been modified to add `opacity` channel to the splatting process
 
 # Installation
 ```
-git clone 
-cd diff-gaussian-rasterization-w-depth
+git clone git@github.com:Li-Yuetao/diff-gaussian-rasterization.git
+cd diff-gaussian-rasterization
 python setup.py install
 pip install .
 ```
